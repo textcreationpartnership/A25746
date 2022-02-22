@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the proceedings at the Sessions for the City of Westminster against Thomas Whitfield, scrivener, John Smallbones, woodmonger, and William Laud, painter for tearing a petition prepared to be presented to the Kings Majestie, for the sitting of the Parliament : with an account of the said petition presented on the 13th instant, and His Majesties gracious answer.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25746</idno>
+            <idno type="STC">Wing A360</idno>
+            <idno type="STC">ESTC R9010</idno>
+            <idno type="EEBO-CITATION">11806751</idno>
+            <idno type="OCLC">ocm 11806751</idno>
+            <idno type="VID">49462</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25746)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49462)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 3:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the proceedings at the Sessions for the City of Westminster against Thomas Whitfield, scrivener, John Smallbones, woodmonger, and William Laud, painter for tearing a petition prepared to be presented to the Kings Majestie, for the sitting of the Parliament : with an account of the said petition presented on the 13th instant, and His Majesties gracious answer.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Whitfield, Thomas, --  Scrivener.</term>
+               <term>Smallbones, John.</term>
+               <term>Laud, William.</term>
+               <term>Popish Plot, 1678.</term>
+               <term>Westminster (London, England)</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:49462:1" rendition="simple:additions"/>
+            <head>An Account of the Proceedings at the Seſſions for the City of <hi>Weſtminſter,</hi> againſt <hi>Thomas Whitfield,</hi> Scrivener; <hi>John Smallbones,</hi> Woodmonger; and <hi>William Laud,</hi> Painter; for Tearing a Petition prepared to be Preſented to the Kings Majeſtie, for the ſitting of the Parliament. With an Ac<g ref="char:EOLhyphen"/>count of the ſaid Petition preſented on the 13th. In<g ref="char:EOLhyphen"/>ſtant, and His Majeſties Gracious Anſwer.</head>
+            <p>IT being the undoubted Right of the Subjects of <hi>England,</hi>
+               <note place="margin">Vi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the Reſoluti<g ref="char:EOLhyphen"/>ons of the Law, C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k. J<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſdict o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Courts 79. Hoba. 1.220 Vel. Magna Chart. Ex 1. Spencer. 51. Vice he Proclama<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ons or K. Charles the Firſt.</note> and War<g ref="char:EOLhyphen"/>ranted by the Law of the Land, and the general practice of all for<g ref="char:EOLhyphen"/>mer times, in an humble manner to apply themſelves to His Majeſty, in the Abſence of Parliaments, <hi>by Petition; for the Redreſs of their Griev<g ref="char:EOLhyphen"/>ances, and for the obtaining ſuch things as they apprehend neceſſary or beneficial, to the ſafety and well-being of the Nation.</hi> And it being their Duty to which they are bound, by the expreſs words of the Oath of Allegiance,<note n="*" place="margin">I Do Swear from my Heart, That I will bear Faith and true Allegiance, to His Majeſty, His Heirs, and Succeſſors and Him, and Them will Defend to the utter<g ref="char:EOLhyphen"/>most of my power againſt all <hi>Conſpiracies</hi> and Attempts whatſoever, which ſhall be made against His or Their perſons, their Crown and Dignity. <hi>And will do my beſt endeavour to diſcloſe and make known</hi> unto His Majeſty, His Heirs and Succeſſors, <hi>all Treaſons and Trayterous Conſpiracies,</hi> which I ſhall know or <hi>have of</hi> to be againſt him or any of them.</note> to repreſent to Him any danger which they apprehend Threatning his Royal Perſon or His <hi>Government;</hi> divers perſons in and about the City of <hi>Weſtminster,</hi> conſidering the too apparent and unſpeak<g ref="char:EOLhyphen"/>able danger His Majeſty and His Kingdoms are in, from the Helliſh Plots and Villanous Conſpiracies of the bloody <hi>Papiſts and their Adherents,</hi> and conceiving no ſufficient (or at leaſt ſo fit) remedy could be provided a<g ref="char:EOLhyphen"/>gainſt it, but by the Parliament by whom alone ſeveral perſons accuſed of theſe accurſed deſigns can be brought to Tryal, did prepare and ſign a Petition, humbly repreſenting to His Ma<g ref="char:EOLhyphen"/>jeſty, the eminent danger His Royal Perſon, the <hi>Proteſtant Religion,</hi> and the Government of this Nation were in; from that moſt damnable and Helliſh Popiſh plot, <hi>branched forth into ſeveral the moſt Horrid Villanies:</hi> for which ſeveral of the principal Conſpirators ſtand impeached by Parlia<g ref="char:EOLhyphen"/>ment, and thereby humbly praying that the <hi>Parliament</hi> might Sit upon the 26th. of <hi>January,</hi> to try the <hi>Offenders, and to Redreſſe the important Griev<g ref="char:EOLhyphen"/>ances no otherwayes to be Redreſſed,</hi> of which <hi>Thomas Whitfield, John Small<g ref="char:EOLhyphen"/>bones,</hi> and <hi>William Laud,</hi> inhabitants in <hi>Weſtminſter,</hi> taking notice; upon the 20th. day of <hi>December</hi> laſt, they ſent to Mr. <hi>William Horſley</hi> who had Signed and promoted the Petition, and in whoſe cuſtody it was; to bring or ſend it to them, for that they deſired to Sign it: and thereupon Mr. <hi>Horſe<g ref="char:EOLhyphen"/>ſley</hi> attended them, and producing the Petition in which many perſons had joyned, he delivered it at their requeſt to be by them Read and Signed, but Mr. <hi>Whitfield</hi> immediatly tore it in pieces, and threw it towards the fire, and <hi>Smallbones</hi> catching it up, ſaid, that he would not take 10 s. for the names, and then they declared that they ſent for it for that very purpoſe, and owned themſelves all concerned in the deſign.</p>
+            <p>Upon Mr. <hi>Horſley's</hi> complaint hereof to a Juſtice of the Peace, a War<g ref="char:EOLhyphen"/>rant was granted againſt them, and they being taken thereupon, after ex<g ref="char:EOLhyphen"/>amination of the matter were bound to appear and anſwer it at the next quarter Seſſions of the Peace for the City of <hi>Weſtminſter,</hi> and upon Fry<g ref="char:EOLhyphen"/>day the 9th. of <hi>January</hi> inſtant the Seſſions being holden, and there be<g ref="char:EOLhyphen"/>ing preſent ſeveral Juſtices of the Peace that are eminent Lawyers, the matter was brought before them, and the Grand Jury Indicted the ſaid <hi>Whitfield, Small-bones,</hi> and <hi>Laud</hi> as followeth, <hi>(viz.)</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="indictment">
+                        <pb facs="tcp:49462:2"/>
+                        <head>The City, Burrough and Town of <hi>Weſtminſter</hi> in the County of <hi>Middleſex.</hi>
+                        </head>
+                        <p>THE Jurors for our Soveraign Lord the King <hi>upon their Oath do preſent, that whereas the Sub<g ref="char:EOLhyphen"/>jects and Liege People of the Kings and Queens of this Realm of</hi> England, <hi>by the Lawes and Cu<g ref="char:EOLhyphen"/>stoms of the Realm, have uſed and been accustomed to repreſent their Publique Grievances by Petition or by any other ſubmiſſive way;</hi> And that the 20th. day of <hi>December</hi> in the One and Thirtieth Year of the Reign of our Soveraign Lord <hi>Charles</hi> the Second, by the Grace of God, of <hi>England, Scotland, France</hi> and <hi>Ireland</hi> King, Defender of the Faith, <hi>&amp;c.</hi> at the Pariſh of St. <hi>Martins</hi> in the <hi>Fields,</hi> within the Libertie of the Dean and Chapter of the Collegiate Church of St. <hi>Peter,</hi> of the City Burrough and Town of <hi>Weſtminster</hi> in the County of <hi>Middleſex;</hi> a <hi>Petition</hi> written in paper, <hi>was prepared and Sub<g ref="char:EOLhyphen"/>ſcribed</hi> with the hands of divers the ſaid Kings Subjects and Liege People, (to the Jury unknown) and to our ſaid Soveraign Lord King <hi>Charles</hi> the Second Directed, and to our ſaid Soveraign Lord the King to be Preſented and Delivered; <hi>by which Petition it was ſhown, that whereas there had been and was a most damnable Plot againſt the Royal Perſon of our ſaid Soveraign Lord the King, the Prote<g ref="char:EOLhyphen"/>stant Religion, and well Eſtabliſhed Government of this Realm, for which Plot ſeveral of the Principal Conſpirators were impeached by Parliament, and whereby it was humbly prayed that the Parliament which was prorogued to the 26th. day of</hi> January <hi>next enſuing in the ſaid Year, might then ſit to Try the Offenders, and to redreſs the preſſing Grievances not otherwiſe to be Redreſſed.</hi> And that <hi>Thomas Whitfield</hi> late of the ſaid Pariſh of St. <hi>Martins</hi> in the <hi>Fields</hi> in the Liberty aforeſaid and the Countie aforeſaid, Yeo<g ref="char:EOLhyphen"/>man, <hi>John Smallbones</hi> late of the ſaid Pariſh, within the Liberty aforeſaid in the Countie aforeſaid, Woodmonger, and <hi>William Laud</hi> late of the Pariſh aforeſaid in the Countie aforeſaid, Yeoman; <hi>being perſons ill-affected and Contriving,</hi> Deviſing and Intending as much as in them lay, <hi>to hinder the ſitting of the ſaid Parlidment as was prayed by the ſaid Petition, and alſo to hinder the Trial of the ſaid Offenders, and Redreſſing the ſaid Grivances,</hi> the ſaid 20<hi>th.</hi> day of <hi>December</hi> in the ſaid One and Thir<g ref="char:EOLhyphen"/>tieth Year of the Reign of our ſaid Sovereign Lord the King, as Rioters and Diſturbers of the Peace of our Sovereign Lord the King, for the Diſturbing of the Peace of our ſaid Sovereign Lord the King, with Force and Arms at the ſaid Pariſh within the Libertie aforeſaid in the Countie aforeſaid, Unlawfully and Riotouſly did Aſſemble themſelves and being ſo then and there Aſſembled, with Force and Arms then and there <hi>Unlawfullie Riotouſlie and Injuriouſlie, the ſaid Petition</hi> being deli<g ref="char:EOLhyphen"/>vered by one <hi>William Horſley</hi> to them the ſaid <hi>Thomas Whitfield, John Smallbones</hi> and <hi>William Laud</hi> at their Requeſt, and for the ſubſcribing their Names thereunto if they ſhould think fit, <hi>did Tear in pieces in contempt of our ſaid Sovereign Lord the King,</hi> and of his Laws, to the evil Example of all others in the like Caſes Offending, and againſt the Peace of our ſaid Soveraign Lord the King his Crown and Dignity.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The Names of the Grand Jury that found the Bill, are theſe
+<list>
+                  <item>
+                     <hi>William Jacob</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Trevor</hi>
+                  </item>
+                  <item>
+                     <hi>Eraſmus Browne</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Dugley</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Streete</hi>
+                  </item>
+                  <item>
+                     <hi>John Henly</hi>
+                  </item>
+                  <item>
+                     <hi>John Weſton</hi>
+                  </item>
+                  <item>
+                     <hi>Martin Frogg</hi>
+                  </item>
+                  <item>
+                     <hi>John Pierce</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Pinke</hi>
+                  </item>
+                  <item>
+                     <hi>Nathaniel Wilkinſon</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Whitefoot</hi>
+                  </item>
+                  <item>
+                     <hi>John Gentle</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Harris</hi>
+                  </item>
+                  <item>
+                     <hi>William Fortune.</hi>
+                  </item>
+                  <item>
+                     <hi>Roger Higdon</hi>
+                  </item>
+                  <item>
+                     <hi>James Harrold</hi>
+                  </item>
+                  <item>
+                     <hi>Cornelius Rickfield</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <item>☞ <hi>George Wright,</hi> Apothecary</item>
+                        <item>☞ <hi>Walter Wright</hi>
+                        </item>
+                        <item>☞ <hi>Adam Langley.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>Upon Wedneſday the 7th. of this inſtant <hi>January</hi> many Gentlemen and Eminent Citizens, who had been concerned for managing the Petition for the Sitting of the Parliament, upon the 26th. inſtant met together and agreed upon the method of finiſhing the ſame, and of nominating Fit perſons for the preſenting it to His Majeſtie, which being accordinglie done; theſe Gentlemen following <hi>(viz.)</hi>
+               <list>
+                  <item>Sir <hi>Gilbert Gerrard Barronet, Son in Law to the late Biſhop of</hi> Durham.</item>
+                  <item>Francis Charlton Eſq;</item>
+                  <item>John Ellis Eſq;</item>
+                  <item>John Smith Eſq;</item>
+                  <item>Johnſon of Stepney Eſq;</item>
+                  <item>Ellis Criſpe Eſq;</item>
+                  <item>Anthony Selby Eſq;</item>
+                  <item>Henry Aſhurſt Eſq;</item>
+                  <item>Tho. Smith Eſq;</item>
+               </list>
+            </p>
+            <p>Gentlemen of Good Worth and Eſtates, and ſeveral of whom have been eminent Sufferers for His Majeſtie, did this 13th. of <hi>January,</hi> attend His Majeſtie with it at <hi>Whitehall,</hi> when being introduced to His Royal preſence. Sir <hi>Gilbert Gerrard</hi> kneeling, preſented this Petition;</p>
+            <p>To the Kings Moſt Excellent Majeſtie, the Humble Petition of Your Majeſties moſt dutiful and Loy<g ref="char:EOLhyphen"/>al Subjects Inhabitants in and about the City of <hi>London,</hi> whoſe Names are hereunder ſubſcribed,</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <opener>Sheweth,</opener>
+                        <p>That whereas there has been and ſtill is a moſt Damnable and Helliſh <hi>Popiſh Plot</hi> branched forth into the moſt Horrid Villanies againſt Your Majeſties moſt Sacred Perſon, the <hi>Protestant</hi> Religion, and the well Eſtabliſhed Government of this Your Realm, for which ſeveral of the principal Conſpirators ſtand now impeached by Parliament.</p>
+                        <p>Therefore in ſuch a time when Your Majeſties Royal perſon, as alſo the <hi>Proteſtant</hi> Religion and the Government of this Nation are thus in moſt eminent Danger.</p>
+                        <p>
+                           <hi>We Your Majeſties most Dutiful and Obedient Subjects, in the deepeſt ſenſe of our Duty, and Allegiance to Your Majeſtie, Do moſt humblie and earneſtlie pray, That the Parliament which is prorogued until the</hi> 26th. <hi>day of</hi> January, <hi>may then ſit, to Try the Offenders, and to redreſs all our moſt important Grievances, no otherwiſe to be redreſſed.</hi>
+                        </p>
+                        <closer>
+                           <signed>And Your Petitioners ſhall ever pray for Your Majeſties long and proſperous Reign.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And expreſſed himſelf to this effect, Sir, <hi>I have a Petition from many thouſands of your Majeſties Duti<g ref="char:EOLhyphen"/>ful and Loyal Subjects, in and about Your City of</hi> London, <hi>which I humblie preſent in their Names, and de<g ref="char:EOLhyphen"/>ſire Your Majeſtie would be pleaſed to read it.</hi>
+            </p>
+            <p>To which His Majeſtie gave this Gracious anſwer, <hi>I know the ſubſtance of it already, I am Head of the Government, and will take care of it,</hi> and then received the Petition, it being a great Roll of above 100 Yards in length, and carryed it away in His Hand.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
